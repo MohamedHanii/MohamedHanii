@@ -14,8 +14,7 @@
 
 🎓 M.S. Artificial Intelligence Engineering @ Universität Passau *(Expected 2027)*  
 ⚙️ Backend engineer with 4+ years in production systems — Rails, ASP.NET Core, PostgreSQL  
-🤖 Interested in LLMs, RAG, Applied AI, and AI-assisted engineering workflows  
-🌍 Based in Germany · Open to working student & full-time roles · Willing to relocate  
+🤖 Interested in LLMs, RAG, Applied AI, and AI-assisted engineering workflows   
 
 ---
 
