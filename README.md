@@ -6,6 +6,8 @@
 [![Email](https://img.shields.io/badge/Email-mohamed.hany556@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamed.hany556@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MohamedHanii-181717?style=flat&logo=github)](https://github.com/MohamedHanii)
 
+![Profile Views](https://komarev.com/ghpvc/?username=MohamedHanii&color=0e75b6&style=flat&label=Profile+Views)
+
 </div>
 
 ---
@@ -68,7 +70,7 @@
 
 <div align="center">
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedHanii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedHanii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHanii&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
