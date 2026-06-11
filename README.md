@@ -76,12 +76,6 @@
 
 ---
 
-## 🌍 Languages
-
-🇬🇧 English (C1) &nbsp;|&nbsp; 🇩🇪 German (A2, improving)
-
----
-
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer)
