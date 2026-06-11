@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Mohamed%20Hany&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20·%20AI%20Enthusiast%20·%20Passau,%20Germany&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Mohamed%20Hany&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20·%20AI%20Enthusiast&descAlignY=58&descSize=18)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamedhanii-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamedhanii/)
 [![Email](https://img.shields.io/badge/Email-mohamed.hany556@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamed.hany556@gmail.com)
@@ -12,7 +12,8 @@
 
 🎓 M.S. Artificial Intelligence Engineering @ Universität Passau *(Expected 2027)*  
 ⚙️ Backend engineer with 4+ years in production systems — Rails, ASP.NET Core, PostgreSQL  
-🤖 Interested in LLMs, RAG, Applied AI, and AI-assisted engineering workflows
+🤖 Interested in LLMs, RAG, Applied AI, and AI-assisted engineering workflows  
+🌍 Based in Germany · Open to working student & full-time roles · Willing to relocate  
 
 ---
 
