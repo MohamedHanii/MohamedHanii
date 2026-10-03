@@ -26,6 +26,7 @@ I've moved across stacks and domains (data engineering, .NET, Ruby on Rails and 
 |---|---|---|
 | **[MLForge](https://github.com/MohamedHanii/MLForge)** | A machine-learning library written from scratch in NumPy with a scikit-learn style `fit`/`predict` API: 16+ estimators covering regression, classification, SVMs, naive Bayes, decision trees, random forests, k-means, MLPs and a CNN. An MLP raised R² on concrete-strength prediction from **0.58 to 0.86** over a ridge baseline. Backed by **390 automated checks**. | Python, NumPy, pandas, Matplotlib, Jupyter |
 | **[Chat-System](https://github.com/MohamedHanii/Chat-System)** | A scalable chat API: applications, chats and messages with per-level numbering. Writes go through background jobs to keep requests fast, counts live in Redis and sync to MySQL hourly, and messages are searchable with Elasticsearch. | Ruby on Rails, Sidekiq, Redis, MySQL, Elasticsearch, Docker |
+| **[miniHive SQL Engine](https://github.com/MohamedHanii/minihive-sql-engine)** | A query engine that parses SQL into relational algebra, optimises it with rewrite rules (predicate push-down, join introduction) and compiles it into chained MapReduce jobs on Hadoop. Physical optimisations (projection push-down, fused map-only jobs, in-memory join branches) cut intermediate data by **~75% on median** and up to **99%** on TPC-H queries. | Python, Hadoop, Luigi, pytest, GitHub Actions |
 | **[Neuroevolution-NEAT](https://github.com/MohamedHanii/Neuroevolution-Neat)** | An implementation of NEAT (NeuroEvolution of Augmenting Topologies) that evolves both the structure and the weights of neural networks, with speciation and fitness sharing. Solves XOR and CartPole balancing, including random starting states. | Java, JUnit 5, jqwik, PIT, JaCoCo |
 | **[Test-Prioritisation](https://github.com/MohamedHanii/Test-Prioritisation)** | Search-based test-case prioritisation that reorders test suites to reach code coverage faster, comparing random search, random walk, simulated annealing and a genetic algorithm. | Java, JUnit 5, Mockito, PIT |
 | **[Readability-analysis](https://github.com/MohamedHanii/Readability-analysis)** | A tool that extracts code metrics (token entropy, Halstead volume, cyclomatic complexity) from Java snippets and trains classifiers to predict human readability ratings. | Java, Weka |
@@ -66,6 +67,7 @@ I've moved across stacks and domains (data engineering, .NET, Ruby on Rails and 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
